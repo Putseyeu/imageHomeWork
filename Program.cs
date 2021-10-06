@@ -11,12 +11,12 @@ namespace imageHomeWork
         static void Main(string[] args)
         {
             int totalImage = 52;
-            int imageOneRow = 3;
-            int totalRow = totalImage / imageOneRow;
-            int excessImage = totalImage - (totalRow * 3);
+            int imagesInRow = 3;
+            int totalRow = totalImage / imagesInRow;
+            int totalOfExtraImages = totalImage - totalImage / imagesInRow * imagesInRow;
 
-            Console.WriteLine (" completely filled rows  " + totalRow + 
-                " pictures will be beyond measure " + excessImage);
+            Console.WriteLine (" completely filled rows " + totalRow + 
+                " pictures will be beyond measure " + totalOfExtraImages);
         }
     }
 }

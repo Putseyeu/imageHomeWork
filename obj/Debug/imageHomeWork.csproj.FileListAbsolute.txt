@@ -1,0 +1,7 @@
+C:\Users\putse\source\repos\imageHomeWork\obj\Debug\imageHomeWork.csproj.AssemblyReference.cache
+C:\Users\putse\source\repos\imageHomeWork\obj\Debug\imageHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\putse\source\repos\imageHomeWork\bin\Debug\imageHomeWork.exe.config
+C:\Users\putse\source\repos\imageHomeWork\bin\Debug\imageHomeWork.exe
+C:\Users\putse\source\repos\imageHomeWork\bin\Debug\imageHomeWork.pdb
+C:\Users\putse\source\repos\imageHomeWork\obj\Debug\imageHomeWork.exe
+C:\Users\putse\source\repos\imageHomeWork\obj\Debug\imageHomeWork.pdb
